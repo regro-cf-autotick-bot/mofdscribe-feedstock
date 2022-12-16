@@ -29,6 +29,8 @@ requirements:
     - element-coder
     - pydantic
     - typing-extensions
+    - openbabel
+    - raspa2
 
 test:
   imports:
