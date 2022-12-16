@@ -12,7 +12,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -29,6 +29,8 @@ requirements:
     - element-coder
     - pydantic
     - typing-extensions
+    - openbabel
+    - raspa2
 
 test:
   imports:
