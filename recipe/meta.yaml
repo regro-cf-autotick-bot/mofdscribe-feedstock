@@ -31,6 +31,9 @@ requirements:
     - typing-extensions
     - openbabel
     - raspa2
+    - zeopp-lsmo
+    - moleculetda
+    - rdkit
 
 test:
   imports:
