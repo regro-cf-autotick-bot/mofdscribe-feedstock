@@ -38,8 +38,6 @@ requirements:
 test:
   imports:
     - mofdscribe
-    - mofdscribe.featurizers.chemistry.RACS
-    - mofdscribe.featurizers.topology.PHHist
   commands:
     - pip check
   requires:
