@@ -31,10 +31,15 @@ requirements:
     - typing-extensions
     - openbabel
     - raspa2
+    - zeopp-lsmo
+    - moltda
+    - rdkit
 
 test:
   imports:
     - mofdscribe
+    - mofdscribe.featurizers.chemistry.RACS
+    - mofdscribe.featurizers.topology.PHHist
   commands:
     - pip check
   requires:
