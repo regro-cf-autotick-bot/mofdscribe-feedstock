@@ -1,5 +1,5 @@
 {% set name = "mofdscribe" %}
-{% set version = "0.0.5" %}
+{% set version = "0.0.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mofdscribe-{{ version }}.tar.gz
-  sha256: 2536b3b1222ca66f1233731c17105233433409f905396229a7d7f3ad4f5307c4
+  sha256: 3cfbc250653162aad4507d2171dbef2a5677e52fc465c098f1140c03e35e0fad
 
 build:
   noarch: python
