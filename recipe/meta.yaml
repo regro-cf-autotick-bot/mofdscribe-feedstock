@@ -32,7 +32,7 @@ requirements:
     - openbabel
     - raspa2
     - zeopp-lsmo
-    - moltda
+    - moleculetda
     - rdkit
 
 test:
