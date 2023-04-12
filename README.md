@@ -1,11 +1,11 @@
-About mofdscribe
-================
+About mofdscribe-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mofdscribe-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/kjappelbaum/mofdscribe
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mofdscribe-feedstock/blob/main/LICENSE.txt)
 
 Summary: Ecosystem for digital reticular chemistry
 
